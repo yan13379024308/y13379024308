@@ -1,0 +1,5 @@
+test add：添加新文件或文件夹，右键点击add，在点击commit
+test update：右键点击update同步更新，将服务器上的项目同步到本地
+test commit：修改文件内容，直接点击commit
+text update：本地添加内容，执行update，查看本地文件是否改变，不实现效果
+revert：右键点击show log，点击回退的版本，右键点击revert回退指定版本

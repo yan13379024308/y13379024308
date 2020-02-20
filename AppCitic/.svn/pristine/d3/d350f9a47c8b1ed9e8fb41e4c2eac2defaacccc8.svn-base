@@ -1,0 +1,4 @@
+test add：添加新文件或文件夹，右键点击add，在点击commit
+test update：修改文件内容，右键点击update，再点击commit
+test update：修改文件内容，右键点击update，需要点击commit才能同步到服务器上
+test commit：修改文件内容，直接点击commit
